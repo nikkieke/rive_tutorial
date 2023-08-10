@@ -4,7 +4,10 @@
 
 Animations typically increase the visual appeal of an app or website and improves overall engagement of the users. According to a study by Forrester Research, websites with well-executed animations, experience an increase in user engagement by up to 400%. Engaging animations can capture users' attention and encourage them to interact more with the platform. However, there is a learning curve for developers to master animation, especially when working with more advanced animation tools and techniques.
 
-Grasping Rive as a developer with no experience in animation can be relatively easy compared to other animation tools or frameworks. Rive (formerly known as Flare) is designed to be user-friendly and accessible to developers, even those with little or no prior animation experience. 
+Grasping Rive as a developer with no experience in animation can be relatively easy compared to other animation tools or frameworks. Rive (formerly known as Flare) is designed to be user-friendly and accessible to developers, even those with little or no prior animation experience.
+
+![InShot_20230809_100345780](https://github.com/nikkieke/rive_tutorial/assets/95222620/f2d91b45-a10f-4b84-b536-8cd886c9c8be)
+
 
 ## Requirements
 
