@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
+import 'package:rive_tutorial/select_level_screen.dart';
 
 import 'home_screen.dart';
 
@@ -206,7 +207,7 @@ class _LoginScreenState extends State<LoginScreen> {
         await Future.delayed(
             const Duration(seconds: 2),(){
           Navigator.push(context,
-              MaterialPageRoute(builder: (context) =>const HomeScreen()));
+              MaterialPageRoute(builder: (context) =>const SelectLevelScreen()));
         });
       }
 
