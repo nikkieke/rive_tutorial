@@ -1,6 +1,6 @@
 ![Rive Animation for Flutter (5)](https://github.com/nikkieke/rive_tutorial/assets/95222620/6a9784fb-4810-4a76-9c28-42fc1e4321ef)
 
-# Rive Animation for Flutter: A Beginner's Guide to Creating Stunning Animations with Ease !
+# Rive Animation for Flutter: A Beginner's Guide to Creating Stunning Animations with Ease!
 
 Animations typically increase the visual appeal of an app or website and improves overall engagement of the users. According to a study by Forrester Research, websites with well-executed animations, experience an increase in user engagement by up to 400%. Engaging animations can capture users' attention and encourage them to interact more with the platform. However, there is a learning curve for developers to master animation, especially when working with more advanced animation tools and techniques.
 
