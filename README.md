@@ -13,7 +13,7 @@ Grasping Rive as a developer with no experience in animation can be relatively e
 
 - Flutter SDK
 - Dart SDK 
-- Rive
+- Rive dependency 
 
 ## Installation
 
